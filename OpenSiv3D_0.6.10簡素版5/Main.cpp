@@ -1,5 +1,7 @@
 ﻿# include <Siv3D.hpp> // OpenSiv3D v0.6.10
 
+/// @brief afdafeawa
+
 void Main()
 {
 	// 背景の色を設定する | Set the background color
